@@ -312,7 +312,7 @@ sector-rotation-via-graph-centrality/
 ### Install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/sector-rotation-via-graph-centrality.git
+git clone https://github.com/saint-broseph/sector-rotation-via-graph-centrality.git
 cd sector-rotation-via-graph-centrality
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
